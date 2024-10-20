@@ -23,7 +23,6 @@ dependencies = [
     "torch",
     "torchmetrics",
     "torchvision>=0.17.2",
-    "typing-extensions>=4.12.2",
     "coverage==7.4.0",
     "dvc>=3.55.2",
     "dvc-gdrive>=3.0.1",
