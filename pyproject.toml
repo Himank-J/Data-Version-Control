@@ -1,3 +1,9 @@
+[project]
+name = "archive"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
 dependencies = [
     "black>=24.8.0",
     "gdown>=5.2.0",
